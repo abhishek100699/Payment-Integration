@@ -1,2 +1,2 @@
 # Payment-Integration
-I have used RazoPay for Payment integration my website.
+Used RazoPay for Payment integration in my website.
